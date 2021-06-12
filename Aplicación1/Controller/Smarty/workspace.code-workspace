@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "Controller",
+			"path": "..\\..\\Controller"
+		},
+		{
+			"name": "Plantilla5toDiver",
+			"path": "..\\..\\Plantilla5toDiver"
+		},
+		{
+			"name": "MVC5toDiver",
+			"path": ".."
+		},
+		{
+			"name": "Framework",
+			"path": "..\\..\\Framework"
+		},
+		{
+			"name": "smarty-3.1.39",
+			"path": "..\\..\\..\\..\\Users\\wilson\\Desktop\\smarty-3.1.39"
+		},
+		{
+			"name": "Smarty",
+			"path": "..\\..\\Smarty"
+		},
+		{
+			"name": "template",
+			"path": "..\\..\\template"
+		}
+	],
+	"settings": {}
+}
